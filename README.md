@@ -20,3 +20,4 @@ CHORES:
  1. Add update UI to show contact-manager UX
  2. Update webpack to build LESS/SASS (based on how I am feeling that day)
  3. Add Gulp process building, cleaning, packaging, and deploying webpack project
+ 4. Streamline token based auth through facebook/linkedin provider
